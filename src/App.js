@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const greeting = "Это тестовый проект для 6 лабораторной работы Акимова Александра Владимировича";
   const rel = "Added semantic-release"
-  const vers = 'Version - 1.0.1'
+  const vers = 'Version - 1.0.0'
 
   return (
     <div className="App">
